@@ -9,5 +9,4 @@ public class HashApiApplication {
   public static void main(String[] args) {
     SpringApplication.run(HashApiApplication.class, args);
   }
-
 }
